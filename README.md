@@ -9,7 +9,7 @@
 
 ## Steps to run the project
 
-    In the client directory, you can run:
+    In the client directory, you need to run the commends below:
     -- `npm install`
     -- `npm start`
 
