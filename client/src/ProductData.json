@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Oreo",
+        "price": 25,
+        "shop":"Shufersal",
+        "description":"Super-sized and oh-so-soft to the touch. We've brought your OREO dreams to life with our exclusive OREO Pillow! Just open the 'sleeve' and you'll find five removable cookie plushes. A must-have for the OREO obsessed!",
+        "images": ["https://www.amihaimcandies.com/wp-content/uploads/2020/07/7290002353324.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNOyqMt7NU5tJARb29OrN55YKDxm9t8p_Nw&usqp=CAU"]
+    },{
+        "name": "Milk",
+        "price": 10,
+        "shop": "Rami Levi",
+        "description":"Milk is a white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for young mammals (including breastfed human infants) before they are able to digest solid food.",
+        "images": ["https://ashdodnet.com/dyncontent/2022/10/20/bc78e1b2-d95a-45cc-9cb4-d75c438b6ea8.jpg","https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AAL20_L_P_4131074_1.png"]
+    },{
+        "name": "Tomato",
+        "price": 8.95,
+        "shop": "Shoka",
+        "description":"tomato, (Solanum lycopersicum), flowering plant of the nightshade family (Solanaceae), cultivated extensively for its edible fruits. Labelled as a vegetable for nutritional purposes, tomatoes are a good source of vitamin C and the phytochemical lycopene.",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg","https://images1.ynet.co.il/PicServer5/2018/03/13/8403791/1_(Large).jpg"]
+    },{
+        "name": "Milka",
+        "price": 12.95,
+        "shop": "Maayan 2000",
+        "description":"Milka is a brand of chocolate confectionery, originally made in Switzerland since 1901 by Suchard. It has then been produced in Lörrach, Germany for the past 100 years.",
+        "images": ["https://superpharmstorage.blob.core.windows.net/hybris/products/mobile/medium/7622210826053.jpg","https://superpharmstorage.blob.core.windows.net/hybris/products/mobile/medium/7622300617820.jpg"]
+    },{
+        "name": "Cheese",
+        "price": 15,
+        "shop":"Basher" ,
+        "description":"The cheese, a light orange-yellow in colour, is wrapped in thin muslin and coated with wax. It is aged a minimum of three to six months, preferably one and one-half to two years. Its mellow, rich flavour becomes more intense with age but should not be bitter.",
+        "images": ["https://www.gov.il/BlobFolder/news/the_ministry_of_economy_and_industry_publishes_the_import_quotas_for_yellow_cheeses/he/Gvinatz800.jpg","https://images1.ynet.co.il/PicServer4/2014/09/02/5562795/43678400100489640360no.jpg"]
+    },{
+        "name": "Steak",
+        "price": 80,
+        "shop": "Idan Ha'Katzavim",
+        "description":"A steak is a thick cut of meat generally sliced across the muscle fibers, sometimes including a bone. It is normally grilled or fried. Steak can be diced, cooked in sauce, such as in steak and kidney pie, or minced and formed into patties, such as hamburgers.",
+        "images": ["https://happykitchen.co.il/wp-content/uploads/2019/07/%D7%A1%D7%98%D7%99%D7%99%D7%A7-%D7%90%D7%A0%D7%98%D7%A8%D7%99%D7%A7%D7%95%D7%98-%D7%A0%D7%90.jpg","http://cdn.shopify.com/s/files/1/0360/0868/9709/products/IMG_11499-2_1200x1200.jpg?v=1592808823"]
+    }
+]
