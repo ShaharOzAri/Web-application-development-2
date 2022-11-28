@@ -13,7 +13,7 @@
         "images": ["https://ashdodnet.com/dyncontent/2022/10/20/bc78e1b2-d95a-45cc-9cb4-d75c438b6ea8.jpg","https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AAL20_L_P_4131074_1.png"]
     },{
         "name": "Tomato",
-        "price": 8.95,
+        "price": 9.90,
         "shop": "Shoka",
         "description":"tomato, (Solanum lycopersicum), flowering plant of the nightshade family (Solanaceae), cultivated extensively for its edible fruits. Labelled as a vegetable for nutritional purposes, tomatoes are a good source of vitamin C and the phytochemical lycopene.",
         "images": ["https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg","https://images1.ynet.co.il/PicServer5/2018/03/13/8403791/1_(Large).jpg"]
@@ -25,7 +25,7 @@
         "images": ["https://superpharmstorage.blob.core.windows.net/hybris/products/mobile/medium/7622210826053.jpg","https://superpharmstorage.blob.core.windows.net/hybris/products/mobile/medium/7622300617820.jpg"]
     },{
         "name": "Cheese",
-        "price": 15,
+        "price": 25,
         "shop":"Basher" ,
         "description":"The cheese, a light orange-yellow in colour, is wrapped in thin muslin and coated with wax. It is aged a minimum of three to six months, preferably one and one-half to two years. Its mellow, rich flavour becomes more intense with age but should not be bitter.",
         "images": ["https://www.gov.il/BlobFolder/news/the_ministry_of_economy_and_industry_publishes_the_import_quotas_for_yellow_cheeses/he/Gvinatz800.jpg","https://images1.ynet.co.il/PicServer4/2014/09/02/5562795/43678400100489640360no.jpg"]
