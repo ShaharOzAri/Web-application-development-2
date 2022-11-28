@@ -2,6 +2,7 @@
 
     Shahar oz ari 208969006
     Oriya atar 207346370
+    Omer nadam 304859077
 
 # Getting Started with Create React App
 
