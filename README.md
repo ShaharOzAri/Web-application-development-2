@@ -1,4 +1,4 @@
-# paticipents:
+# participents:
 
     Shahar oz ari 208969006
     Oriya atar 207346370
